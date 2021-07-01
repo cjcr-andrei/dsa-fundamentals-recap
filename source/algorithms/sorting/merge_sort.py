@@ -19,7 +19,7 @@ def merge(a: list, b: list) -> list[int]:
 
 
 def merge_sort(arr: list) -> list[int]:
-    if len(arr) == 1:
+    if len(arr) <= 1:
         return arr
 
     middle = len(arr) // 2
