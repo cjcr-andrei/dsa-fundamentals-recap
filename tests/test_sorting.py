@@ -1,5 +1,5 @@
 import unittest
-from source.algorithms.sorting.merge_sort import *
+from source.algorithms.sorting.mergesort import *
 
 
 class TestMergeSort(unittest.TestCase):
