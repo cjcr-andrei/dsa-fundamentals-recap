@@ -27,6 +27,3 @@ def merge_sort(arr: list) -> list[int]:
     left = merge_sort(arr[:middle])
     right = merge_sort(arr[middle:])
     return merge(left, right)
-
-
-print(merge_sort([9, 2, 5, 6, 4, 3, 10]))
