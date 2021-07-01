@@ -1,3 +1,2 @@
 # dsa-fundamentals-recap
-
-![Python CI](https://github.com/github/docs/actions/workflows/python-app.yml/badge.svg)
+![Python CI Badge](https://github.com/cjcr-andrei/dsa-fundamentals-recap/actions/workflows/python-app.yml/badge.svg)
